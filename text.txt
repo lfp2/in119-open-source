@@ -1,0 +1,10 @@
+https://github.com/microsoft/vscode
+https://github.com/emberjs/ember.js
+https://github.com/facebook/react
+https://github.com/apple/swift
+https://github.com/google/guava
+https://github.com/rails/rails
+https://github.com/jquery/jquery
+https://github.com/twbs/bootstrap
+https://github.com/docker/compose
+https://github.com/nodejs/node
